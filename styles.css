@@ -11,4 +11,4 @@ body{ background-image: url('http://www.dailyfreepsd.com/wp-content/uploads/2013
 	.fa-inactive { opacity: 0.4}
 	.table .fa { width: 18px}
 	.portrait { margin: 12px}
-	.container { margin-top: 50px} //this margin gives room for the navbar at the top
+	.container { padding-top: 50px} //this padding gives room for the navbar at the top
