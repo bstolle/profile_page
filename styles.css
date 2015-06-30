@@ -1,0 +1,14 @@
+body{ background-image: url('http://www.dailyfreepsd.com/wp-content/uploads/2013/09/sunset-blurred-background-freebie.jpg');
+			background-repeat: no-repeat;
+		}
+	.list-group-item,
+.panel-default	{
+		background-color: rgba(255,255,255,0.3);
+		border: none;
+		color: #FFF 
+	}
+	.badge { background-color: #7A8E93}
+	.fa-inactive { opacity: 0.4}
+	.table .fa { width: 18px}
+	.portrait { margin: 12px}
+	.container { margin-top: 50px} //this margin gives room for the navbar at the top
